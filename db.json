@@ -1,8 +1,8 @@
 {
-    "url": "https://git-link.vercel.app/api/download?url=https%3A%2F%2Fgithub.com%2Fdbeehler%2Fh1-swagger-ui-testing%2Fblob%2Fmain%2Ftest.yaml",
+    "url": "https://raw.githubusercontent.com/dbeehler/h1-swagger-ui-testing/main/test.yaml",
     "urls": [
         {
-            "url": "https://git-link.vercel.app/api/download?url=https%3A%2F%2Fgithub.com%2Fdbeehler%2Fh1-swagger-ui-testing%2Fblob%2Fmain%2Ftest.yaml",
+            "url": "https://raw.githubusercontent.com/dbeehler/h1-swagger-ui-testing/main/test.yaml",
             "name": "Foo"
         }
     ]
